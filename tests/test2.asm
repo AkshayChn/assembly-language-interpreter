@@ -1,0 +1,9 @@
+LDI -6
+XCH
+LDI 6
+ADD
+XCH
+HLT
+XCH
+LDI 100
+
